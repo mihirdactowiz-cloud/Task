@@ -10,7 +10,8 @@ with open("bonker.json", "r") as f:
     for i in range(len(data["products"])):
         productsName = products[i]["variants"][0]["name"].split(" - ")[0].strip()
         vendor = products[i]["vendor"]
-        productUrl  = productLink +  productsName
+        handle = products[i]["handle"]
+        productUrl  = productLink + handle
         productPrice = int(products[i]["variants"][0]["price"]) / 100
         variantCount = len(products[i]["variants"])
         variantOptions = []
@@ -18,7 +19,7 @@ with open("bonker.json", "r") as f:
         for j in range(variantCount):
             variantOptions.append(products[i]["variants"][j]["public_title"])
 
-            temp ={
+            temp = {
                 "variantName" :products[i]["variants"][j]["public_title"],
                 "variantId" : products[i]["variants"][j]["id"],
                 "variantUrl" : f"{productLink}{products[i]['handle']}?variant={products[i]['variants'][j]['id']}",
