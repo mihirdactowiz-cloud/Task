@@ -14,7 +14,7 @@ if data.status_code == 200:
     root = html.fromstring(data.text)
     tablestart = root.xpath('//tbody/tr[@class="scroll-section__row"]')
     tableheading = root.xpath('//th[contains(@class,"heading")]/text()')
-    #print(tableheading)
+    print(tableheading)
 
     for item in tablestart:
         tdlist = item.xpath('td[@class="table-cell"]/text()')
@@ -25,18 +25,19 @@ if data.status_code == 200:
             if i == 0:
                 pass
             else:
-                if i < 3:
-                    d1[keylist[i-1]] = float(eachtd.strip())
-                else:
-                    d1[keylist[i-1]] = eachtd.strip()
-            i = i + 1
-        cname = tdlist[0].strip()
-        if cname[0] == "-":
-            cname = cname[1:]
+                value = eachtd.strip()
+                try:
+                    value = float(value)    
+                except ValueError:
+                    pass
+                d1[keylist[i-1]] = value
 
+            i = i + 1
+        cname = tdlist[0].strip().lstrip("-")
+        
         finalObject[cname] = d1
 
-    # print(d1)
+    # print(d1)9
 
 maggiefinalobject = {
     "Nutrition_information": finalObject
