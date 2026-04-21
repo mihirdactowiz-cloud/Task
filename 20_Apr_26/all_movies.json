@@ -1,0 +1,362 @@
+[
+    {
+        "movie_name": "Mother Mary",
+        "date": "2026",
+        "image": "https://resizing.flixster.com/uQho2faU1Uf3OouLtjT7Wb75LEs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4YjdhYWYxLTMzNzktNGFlOC1hOWE5LTlhZGVjZmM1MDhhNi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/mother_mary"
+    },
+    {
+        "movie_name": "Michael",
+        "date": "2026",
+        "image": "https://resizing.flixster.com/hcHFyHYxNIIgMilY0mC2JoIhggk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYTIxNGM2LTkyZmEtNDJlMC05ODA4LWQ3YTBjYzE2MzQzNi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/michael"
+    },
+    {
+        "movie_name": "Over Your Dead Body",
+        "date": "2026",
+        "image": "https://resizing.flixster.com/i04jiP6zSWyJP_f2sxZXjgGiwnI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczNThjMTQyLTczMDAtNDFkMi1iNTM5LTdhOTc1YmFjZmFmZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/over_your_dead_body_2026"
+    },
+    {
+        "movie_name": "Fuze",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/OQv1PTdyrxCf4LofshQ-5f0nU-0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U1NDRhZDRmLTU3ODAtNGIzNy04YzkwLTI3M2QyZTNkMTg0Ni5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/fuze"
+    },
+    {
+        "movie_name": "I Swear",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/7U6PXGduyy8jTN70bJBve_Lxu4g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiYzM0Y2YxLTVjYzItNGExNS04YzM2LTE1NTllYjM1MDFkNS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/i_swear_2025"
+    },
+    {
+        "movie_name": "Desert Warrior",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/X0HtFo1AekXz9AvwjSjqNcLOdlM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJhYWFjMzc2LTNmNDUtNDIzOC05MzMyLTAwNjViMDAyNzJmNi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/desert_warrior_2025"
+    },
+    {
+        "movie_name": "Omaha",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/Oid1Tmj8yMmLJGVx7NQjlMj7Kqo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NmNmY2MzhlLTQ0YjctNDMyYi1iYWJjLTUxZWJhYmRlNzM0OC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/omaha_2025"
+    },
+    {
+        "movie_name": "Frankie, Maniac Woman",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/44yXRIi5phdLWeAJeMktnCIaI0g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdjNDkzODYyLWRlZjItNGYzZS1hZDU4LTg5OTA4ODc5YzMyYi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/frankie_maniac_woman"
+    },
+    {
+        "movie_name": "The Wolf and the Lamb",
+        "date": "2026",
+        "image": "https://resizing.flixster.com/rzxfC8nLXdi5_uJ0plLld6dsvSk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlOGUzNmEzLWQ5NDItNDQ1My1hYzcyLTk0MDMyMzhjOGQ3Zi53ZWJw",
+        "url": "https://www.rottentomatoes.com/m/the_wolf_and_the_lamb"
+    },
+    {
+        "movie_name": "Kangaroo Island",
+        "date": "2024",
+        "image": "https://resizing.flixster.com/hYs1l0jtJvHVdnr5BQJFNhf3NBQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRkODQ0YjE2LWNjMWItNGU4Ni04Nzc3LTVmYWY5NDBlNTI4Zi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/kangaroo_island"
+    },
+    {
+        "movie_name": "Ricky",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/kYOG4-W3LBLWsKkWxzlJrUa5Q9o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhmNGExZDAwLTk5YjUtNGFkMi1iZGQ1LWI3NmNlZmEyZTVhYi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/ricky_2025"
+    },
+    {
+        "movie_name": "Two Women",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/77uRPDwF0OtBzTy6tE_3vOxqXeg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBhMzMxYmY0LTM2YjctNDY2ZC05NjEzLTkyZGQyZjc3ZDU5Yy5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/two_women_2025"
+    },
+    {
+        "movie_name": "No Ordinary Heist",
+        "date": "2026",
+        "image": "https://resizing.flixster.com/hg1BFCyNlmqIU4Flcjzsq-pNtOM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M5YjUxZDQ3LTA1ZGQtNDc3Ni1hMGJmLTg4YWU3ZTViNTJkYi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/no_ordinary_heist"
+    },
+    {
+        "movie_name": "The School Duel",
+        "date": "2024",
+        "image": "https://resizing.flixster.com/-jlIHFpbzBdlhBnay7fgBdsUnOI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5NjA5NmZhLWE2OWEtNDcxNS1hMjNjLTg2ZGRkNmFhYTMzZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/the_school_duel"
+    },
+    {
+        "movie_name": "The Seduction of Mimi",
+        "date": "1972",
+        "image": "https://resizing.flixster.com/Y3f0b3gv2aIp02WEso3B1tnTpu0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxZDI1MjQ0LTk3NGUtNGY1OS1hZDVlLTg3MTZiZTE3YjY0OS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/the_seduction_of_mimi"
+    },
+    {
+        "movie_name": "Horseshoe",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/6H6-kirO5WIB2oY5Agxw1tnspRU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM1NjVkYjU3LTcyNzktNDRjMi05MDIzLTg0NTc4ZjBlYmVjNS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/horseshoe_2025"
+    },
+    {
+        "movie_name": "Mistura",
+        "date": "2024",
+        "image": "https://resizing.flixster.com/UV6t0xE-a-9X-BClS6wstSGCFx8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwZDI3NjVjLWYzZDQtNGFhZC04Y2FlLWNjNzAxYzBhMjRlYi5wbmc=",
+        "url": "https://www.rottentomatoes.com/m/mistura"
+    },
+    {
+        "movie_name": "Original Sound",
+        "date": "2026",
+        "image": "https://resizing.flixster.com/_HrIVVz3obfOLlNd7U0Ip5cTGrM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyNDhhNzkyLTI0ODEtNDc5My1iMmYwLWRjN2I3MzBmOWRjNi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/original_sound"
+    },
+    {
+        "movie_name": "His Monster",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/qomlPfnoKV61fdxyZ8bDUWDeneE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhYTBjNWEzLTI3MmMtNDE5Ny04N2Q4LTdhNmJmNjNjYzlmZS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/his_monster"
+    },
+    {
+        "movie_name": "A Blind Bargain",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/cniSoQPu49ZbwggeiH-surOlETo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczZDQ4NjkwLWNjYzUtNGFjOS1hYjA1LTg4YThhMjQwYzU2NC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/a_blind_bargain_2025"
+    },
+    {
+        "movie_name": "Pretty Ugly: The Story of the Lunachicks",
+        "date": "2023",
+        "image": "https://resizing.flixster.com/fRJaVJ_kN4TB4B547itEQJnTAm4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2NDk4NGZkLWY3NTctNDNmZS1hZjIxLWJhZTc2Nzg0YThiMi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/pretty_ugly_the_story_of_the_lunachicks"
+    },
+    {
+        "movie_name": "Just Sing",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/ywen-sKI2_OrPZZZhOeCLYrLHJs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM2NmYzOGZkLTExYzMtNGFhMS1iYzRmLTIzYzU3MjgxOGNkMC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/just_sing"
+    },
+    {
+        "movie_name": "Eraserheads: Combo on the Run",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/w3gqzOvl9bwo3pARaPMprJ7ZQeo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkZDVmMjUwLTIxMDAtNDBmMy05MTFiLWYyNTQ2MDAwYmYyMi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/eraserheads_combo_on_the_run"
+    },
+    {
+        "movie_name": "Fight Club",
+        "date": "1999",
+        "image": "https://resizing.flixster.com/DLSVVGkYiKxoMKeaoFWWAg6ZOxQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmMDZlNjA1LTdiMGMtNDI4Zi1hMzQ0LTRhY2MyMThhZWM1NS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/fight_club"
+    },
+    {
+        "movie_name": "Maintenance Artist",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/dnXYcKFezklbW8ZEquWm4Q3NKsc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQwOGFkNWU0LTIwNGUtNGIxNy04MjJiLTlmYThjMzk3NjBjZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/maintenance_artist"
+    },
+    {
+        "movie_name": "KAPODISTRIAS\u202f(The Governor)",
+        "date": "2025",
+        "image": "https://resizing.flixster.com/ViNmzmHfbjwTV71a5lVatOWixVQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjOTgyOGUwLTM1YTQtNGEwMy1hZWY5LTczYzg0MjZmNDRkZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/kapodistrias_the_governor"
+    },
+    {
+        "movie_name": "Whisper of the Heart",
+        "date": "1995",
+        "image": "https://resizing.flixster.com/iOYqoVyKuD1A_JnUrUlTE6BkCeM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjMGM0MDRjLWZlMDItNGU5OS05MzIzLTMxZjczYTNmYmI3Yi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/whisper-of-the-heart"
+    },
+    {
+        "movie_name": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+        "date": "2022",
+        "image": "https://resizing.flixster.com/njjDsnL3O2EOkB4Fq4Q9lYcJ2qs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU2NGUzZjYyLWU2OTktNDA0YS04MjY0LTc0NjM3MzI0NWMzYy5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/that_time_i_got_reincarnated_as_a_slime_the_movie_scarlet_bond"
+    },
+    {
+        "movie_name": "BTS World Tour 'Arirang' in Japan: Live Viewing",
+        "date": "Opened Apr 18, 2026",
+        "image": "https://resizing.flixster.com/KKK0ejxOvQ-2CzQbOCH7icONom0=/206x305/v2/https://resizing.flixster.com/VSVIBvbrEZ-HwKbL-VAF-8HLZn4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyODAxNTM0LWY1YTUtNDlkZS05Mzc5LWZmNGU1NTFlNmEzNy5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/bts_world_tour_arirang_in_japan_live_viewing"
+    },
+    {
+        "movie_name": "Lee Cronin's The Mummy",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/lx7SUMfO-nFkzSHoFe1h7VkxAzk=/206x305/v2/https://resizing.flixster.com/jJ2BDS3_ZsdA6Nb9-I47TIDcti8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwMjMwNDRjLWZmYWYtNDMyMS1iOWYyLTgzYzgwOGY2ZjFkMC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/lee_cronins_the_mummy"
+    },
+    {
+        "movie_name": "Normal",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/dEqL5HemDpvhGWIn03GhYBxXuVI=/206x305/v2/https://resizing.flixster.com/-xF6RVe1u6mk5hKqG3o-Ty1F25c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RlOGZkZDAyLTJjNDctNDU0NC04MTFmLWRhZmRmNzFlMTMyYy5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/normal_2025"
+    },
+    {
+        "movie_name": "Busboys",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/ILXlwUtco9R_gmMq-aZjFQit1c8=/206x305/v2/https://resizing.flixster.com/YdmCdE7OWwLKUuM_sHAG5Xfl15c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzYWM1YzNmLTBlOTgtNDc4OS1hODdmLTM4M2I1OTU4YmEzYS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/busboys"
+    },
+    {
+        "movie_name": "Lorne",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/0mpAoW2a7LNwDYaR4Ia-_Zqk5n0=/206x305/v2/https://resizing.flixster.com/U_nj3LQrq2TzqqOEh3NQYfQ7CBg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1Nzk2NzNlLTBlZTUtNGY1Ny1iYjk1LTc4MTFkMGNlZmYxYy5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/lorne"
+    },
+    {
+        "movie_name": "Mile End Kicks",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/PPGacO9C1flkUC_vHuIt3Hzdw3E=/206x305/v2/https://resizing.flixster.com/y6RGOc6hDuY6MSrugUS-geNWt_Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIwMjZkNzA0LTExODQtNDFlMC04ZTc2LTNhZWZiYWIyNDU3MC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/mile_end_kicks"
+    },
+    {
+        "movie_name": "Ballistic",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/C2EIQkKKW4jDvrnmJEZrfeVC9lU=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32561055_p_v12_ac.jpg",
+        "url": "https://www.rottentomatoes.com/m/ballistic_2026"
+    },
+    {
+        "movie_name": "Wasteman",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/XDkVSB5DSi49E3ZZsrYrIdb-_5A=/206x305/v2/https://resizing.flixster.com/AMBo2TkL4aXutvZcW_4vAu2z5zM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNzcwMTVmLTE1OTEtNDQwZC1iZTY4LWZiZDRiNGMxYjU1ZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/wasteman"
+    },
+    {
+        "movie_name": "Brothers Under Fire",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/v6eqnrJqmBe65Q0ud3mmWIj6zKI=/206x305/v2/https://resizing.flixster.com/aOzRvXCKemR_6AbU0HQwRneJbeU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY3NTQzZmEyLWRlNzQtNDk4Yi04ZTFlLWRiNjQ5N2RlYTc4YS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/brothers_under_fire"
+    },
+    {
+        "movie_name": "The Whistler",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/yhXRA4hiUXYZyyrG6ps9Ws1fI3I=/206x305/v2/https://resizing.flixster.com/2ak1wtCwLS5abIUzYRFvDbzkjeo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0YzQyODg3LTdkNmUtNDNlNi04YTM0LTc5YzM3Y2JhOGQwNS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/the_whistler"
+    },
+    {
+        "movie_name": "Blue Heron",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/fDr_ScNXV6QLrw6di9iVMRoFbBU=/206x305/v2/https://resizing.flixster.com/eTOpHaTqh_U9ssRHllpmW2SmW4M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxZDQxM2YxLTAwMGEtNDMzZS05NjJlLWFjYjFhZWEzMTMxZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/blue_heron"
+    },
+    {
+        "movie_name": "M\u0101rama",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/0x2J9-4qyzu7wf_apOe3qhvFhaU=/206x305/v2/https://resizing.flixster.com/tMCKclH1nG4AqubWpGrtaTQT5pI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViNWJkOGE4LThkNGMtNDU3YS04ZDhmLTIwNzdiYzk1YmIyZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/marama"
+    },
+    {
+        "movie_name": "Erupcja",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/6G4zo0JNU9aAEG-bCsxLmHS3YBk=/206x305/v2/https://resizing.flixster.com/ptEBOluIsT_CO1s34xwwZUHDes8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4ZGFmYzkxLWI2NWQtNGE1Ny1iMGIxLTc1Njk3MjBkMDQ1Ny5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/erupcja"
+    },
+    {
+        "movie_name": "Everyone Is Lying to You for Money",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/49B_LKqSvv12AZEQ824VlNJNYEg=/206x305/v2/https://resizing.flixster.com/C36aDD5Miy11fi4G6pJ6jv0Wpok=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwOTI4MDcyLWMzZTEtNDliMi05N2JiLWMxZWMxM2VjMDQ0YS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/everyone_is_lying_to_you_for_money"
+    },
+    {
+        "movie_name": "Amrum",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/JZ7AqU8s3paX6VyC0MJ9vb5U6Nc=/206x305/v2/https://resizing.flixster.com/f8UOw_IAgzSL867bSQ6GcEAZOt4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxYjFkZGQ5LTg2NTgtNDM3Mi1hZmMxLTZlNTU5NWI5MThmZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/amrum"
+    },
+    {
+        "movie_name": "The Gardener",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/hJ9eYiiyNcvDK5LvSBnJiBHA0yI=/206x305/v2/https://resizing.flixster.com/srIcNT-_B8NG7KwPMpZ4hjloctA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y4OTA4MDE2LTdkNGMtNDQ3Ni04MWZhLTdmOWRjYjhmOGY2NS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/the_gardener_2026"
+    },
+    {
+        "movie_name": "Bridesmaids",
+        "date": "Re-released Apr 17, 2026",
+        "image": "https://resizing.flixster.com/cfCk5pVTGthyKieGXG2UyqD-JrU=/206x305/v2/https://resizing.flixster.com/yJg_aUTbtdQP9higcjqpEri2VAQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA2OWQwNTMwLWFkMmUtNGNlYy04YjI1LWY3NjlkNDcyZGUwZi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/bridesmaids_2011"
+    },
+    {
+        "movie_name": "Fireflies at El Mozote",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/IZABp-WKZVOq4QXoc9woz89rLr4=/206x305/v2/https://resizing.flixster.com/gxOz9Or6QI38Wf9ZwAXccm5Pv9k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkY2Y5M2IwLWRjMWQtNDRjNi04ZGI0LTRhZmU3YzgyN2ZkYy5wbmc=",
+        "url": "https://www.rottentomatoes.com/m/fireflies_at_el_mozote"
+    },
+    {
+        "movie_name": "Eagles of the Republic",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/FpH-7AO7BdtHRqVZKunc2huIQkM=/206x305/v2/https://resizing.flixster.com/G2MLtVHzbmCL_ZdAnEg3li7vCAM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiNDExYmRiLTkwMmQtNDBkMy1iZGI2LWI4NjY0YzJkZTIzYi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/eagles_of_the_republic"
+    },
+    {
+        "movie_name": "The Mountain",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/Fg5FI4Xkepl5E35t_L3KNCgMMbY=/206x305/v2/https://resizing.flixster.com/1M0etNiZ5u88z9PYDxsYf5B7B1U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkZjM0OTVkLWQyMzMtNDgxYS05ZmFkLWE0NGYwZTRmMTY3Yi5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/the_mountain_2024"
+    },
+    {
+        "movie_name": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/t-NLZYdjR1GIuiMHHiJPT8FkBUM=/206x305/v2/https://resizing.flixster.com/No55vDTmSYSC02EQRgEANop6au8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNlZDEzYTA3LTYxZWYtNDI0Ni05YTVjLWRjNzFlODBjMmE2OC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/mad_bills_to_pay_or_destiny_dile_que_no_soy_malo"
+    },
+    {
+        "movie_name": "Panda Plan 2: The Magical Tribe",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/nJsyV-EXhMh-NwwmDtptrOii-WA=/206x305/v2/https://resizing.flixster.com/-boZ_RxRQ9WhUQjAQp7p9xJv2Mk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMxMTA4NmQ3LWI3ODctNDBkNi04MDA1LWJmOTM3OWYxOGViNC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/panda_plan_2_the_magical_tribe"
+    },
+    {
+        "movie_name": "American Solitaire",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/kXU4tdstq8pY6m17kqsINAWB9mE=/206x305/v2/https://resizing.flixster.com/l6F_Tj62wmtR8ScYTdExV6IfHsg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QyNTA0ZGY4LWRmMDQtNGZmYS05Yjk2LThjMDQxMTI0MGNlZi5wbmc=",
+        "url": "https://www.rottentomatoes.com/m/american_solitaire"
+    },
+    {
+        "movie_name": "Mr. X",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/VRx3qS39oslPxc_Ii-aWO3q1d7I=/206x305/v2/https://resizing.flixster.com/k3Xb7Cex8gq9Oep45a8w8FNwz8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3YjBhODM2LWE0NjgtNDNiMS1iZDE1LTU4ZGI5NDIwODRjYy5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/mr_x_2026"
+    },
+    {
+        "movie_name": "Mabel",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/x9x9flHRi0saNgFTHosOkSIrIgQ=/206x305/v2/https://resizing.flixster.com/OhUskJACo1IEtrg1R0wT9HnWFnk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdiNGM0YzRkLWIxMTMtNDVkNi04NWViLTAxY2I5MDA5ZDY5OC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/mabel_2026"
+    },
+    {
+        "movie_name": "Papam Prathap",
+        "date": "Opened Apr 17, 2026",
+        "image": "https://resizing.flixster.com/Wrd1H-vSb4AnwPlBxN9QRwf7G3Y=/206x305/v2/https://resizing.flixster.com/0ShQ4Yu5ZZ8mZX7szOPgam2A7GU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxOGNjNzg3LTkwOWEtNDhkNi1hMmFmLWEzM2Y2OWQ5YzIwYS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/papam_prathap"
+    },
+    {
+        "movie_name": "Bhooth Bangla",
+        "date": "Opened Apr 16, 2026",
+        "image": "https://resizing.flixster.com/Ur0nlewhCjnNa6-I9G9og0GuueM=/206x305/v2/https://resizing.flixster.com/B4hCWBvhP2qnejHM8rdyH2q0gEg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNzkxYjk2LWU0ZjMtNGJiYS05ZTYxLTA1MGJmY2YxNGNhNy5wbmc=",
+        "url": "https://www.rottentomatoes.com/m/bhooth_bangla"
+    },
+    {
+        "movie_name": "Salmokji: Whispering Water",
+        "date": "Opened Apr 16, 2026",
+        "image": "https://resizing.flixster.com/iC6cZNwLyIz0oPWuU9xusua2_co=/206x305/v2/https://resizing.flixster.com/c1i1t5hTkADsJIo8bo7iRzGbXXs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3NzI3YzQzLWQ1ZDktNDc2MC1iNGU4LWM1ZGE3NDI3YjlmZC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/salmokji_whispering_water"
+    },
+    {
+        "movie_name": "Changing Lanes",
+        "date": "Opened Apr 16, 2026",
+        "image": "https://resizing.flixster.com/uhoMZ9Rl-wUN41KKCkWcbKAq-qc=/206x305/v2/https://resizing.flixster.com/0xtkTRS4h6xXS1Crl8LoUFgWba4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0NjI1MDM2LTQ3NjktNDE5Ny05NDFiLWY3MWI5NDA0NmZhYy5wbmc=",
+        "url": "https://www.rottentomatoes.com/m/changing_lanes_2025"
+    },
+    {
+        "movie_name": "City Wide Fever",
+        "date": "Opened Apr 15, 2026",
+        "image": "https://resizing.flixster.com/lO5uUGRKRBWMSIbS03iE5f6SEtg=/206x305/v2/https://resizing.flixster.com/WG-utSDplO0evEy1VeeUvw4xG_A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlY2YxZGQ5LWM1ZTYtNGQ0My1hNzNkLWI5ODk3NzE4YjU1ZS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/city_wide_fever"
+    },
+    {
+        "movie_name": "Pallichattambi",
+        "date": "Opened Apr 15, 2026",
+        "image": "https://resizing.flixster.com/KeElRuUccMuxUG4FY5E_y0ARZZ0=/206x305/v2/https://resizing.flixster.com/cHojMwn9MdZPhBqjCFy2BAOW2c8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmM2IxYjY4LWUxNmEtNDkzNy1iODJmLTcxZGViMjM3ODMyNC5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/pallichattambi"
+    },
+    {
+        "movie_name": "Oru Durooha Saahacharyathil",
+        "date": "Opened Apr 15, 2026",
+        "image": "https://resizing.flixster.com/-RxeWvSDwelIhGHIIDoP-UZ6i6M=/206x305/v2/https://resizing.flixster.com/h740R5iIDbfuvgSvO0Da4_XyEF8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzViODRlNDAyLTk4MTMtNGYxMy05NWYyLWIyNTUxNzYyZTdiYS5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/oru_durooha_saahacharyathil"
+    }
+]
